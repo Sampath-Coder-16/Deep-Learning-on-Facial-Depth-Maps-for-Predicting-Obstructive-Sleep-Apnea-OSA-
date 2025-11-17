@@ -1,0 +1,2 @@
+# Deep-Learning-on-Facial-Depth-Maps-for-Predicting-Obstructive-Sleep-Apnea-OSA-
+osa is is a common yet underdiagnosed condition that causes repeated airway blockages during sleep. Traditional diagnosis using Polysomnography (PSG) is accurate but costly and not easily accessible.This project  uses of deep learning to predict OSA risk from lateral cephalometric X-ray images, offering a low-cost, non-invasive screening 
